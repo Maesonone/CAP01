@@ -7,6 +7,6 @@ public class App {
         System.out.printf("%-8s%-8s%-8s%-8s%-8s%n", "Prog.", "B.D.", "Prog.", "Prog", "FOL");
         System.out.printf("%-8s%-8s%-8s%-8s%-8s%n", "S.I.", "B.D.", "Prog.", "B.D.", "S.I.");
         System.out.printf("%-8s%-8s%-8s%-8s%-8s%n", "S.I.", "E.D.", "B.D.", "B.D.", "S.I.");
-        System.out.printf("%-8s%-8s%-8s%-8s%-8s%n", "S.I.", "E.D.", "B.D.", "E.D.", "S.I.");
+        System.out.printf("%-8s%-8s%-8s%-8s%-8s%n", "S.I.", "E.D.", "B.D.", "B.D.", "S.I.");
     }
 }
