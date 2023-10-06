@@ -5,6 +5,5 @@ public class App {
         System.out.printf("%7s%n", "*   *");
         System.out.printf("%6s%n", "* *");
         System.out.printf("%5s", "*");
-        System.out.print("\u2587");
     }
 }
